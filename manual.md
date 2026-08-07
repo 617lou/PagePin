@@ -6,7 +6,7 @@
 
 ## Part 1 — Adding Annotations (Editor)
 
-> 1Use case: Open an HTML page in the browser, use the PagePin extension to annotate elements, and export a self-contained annotated HTML file.
+> Use case: Open an HTML page in the browser, use the PagePin extension to annotate elements, and export a self-contained annotated HTML file.
 
 ![Adding annotations](添加批注.png)
 
