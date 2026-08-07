@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manual.md",
+                "file": "manual.zh-CN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manual"
+              "title": "manual.zh-CN"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manual.md",
+                "file": "manual.zh-CN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manual.md",
+                "file": "manual.zh-CN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manual.md",
+                "file": "manual.zh-CN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84b233ea5989b351",
-  "lastOpenFiles": []
+  "active": "ff110ad9d2cf1ee7",
+  "lastOpenFiles": [
+    "manual.md",
+    "manual.zh-CN.md"
+  ]
 }
